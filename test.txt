@@ -17,4 +17,9 @@ hyein test 2
 
 123213123122dsds
 
+<<<<<<< HEAD
+
+how to project
+=======
 testtest HYEIN
+>>>>>>> upstream/master

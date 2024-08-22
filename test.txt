@@ -24,4 +24,8 @@ how to project
 testtest HYEIN
 >>>>>>> upstream/master
 
+<<<<<<< HEAD
 practice git
+=======
+test...
+>>>>>>> upstream/master

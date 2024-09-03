@@ -28,5 +28,9 @@ test...
 
 pr test3
 
+<<<<<<< HEAD
 
 testtesttest 2
+=======
+pr testtest1
+>>>>>>> upstream/master
